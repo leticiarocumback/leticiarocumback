@@ -12,14 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello! Welcome to my Github profile.
+## 👋 Hello! Welcome to my Github profile.
 
-My name is Letícia and my nickname is 'lelts'! 
-I enjoy programming as a hobby and love delving into the world of HTML.
+My name is <span style="color: #836FFF;">Letícia</span> and my nickname is <span style="color: #836FFF;">'lelts'</span>! 
 
-<center>
-  <img src="https://www.stokimg.com/ib/zW9zNHROiH.png" alt="zW9zNHROiH" width="300" align="center">
-</center>
+I enjoy programming as a hobby and love delving into the world of <span style="color: #836FFF;">HTML</span>.
+
+<h1 align="center"> 
+<img src="https://www.stokimg.com/ib/zW9zNHROiH.png" alt="zW9zNHROiH" width="300">
+    </h1>
 
 <tr>
   <table width="100%">
