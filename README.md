@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello! Welcome to my Github profile.
 
-My name is Letícia and my nickname is 'lelts'! I enjoy programming as a hobby and love delving into the world of HTML.
+My name is Letícia and my nickname is 'lelts'! 
+I enjoy programming as a hobby and love delving into the world of HTML.
 
 <center>
-  <img src="https://www.stokimg.com/ib/zW9zNHROiH.png" alt="zW9zNHROiH" width="300">
+  <img src="https://www.stokimg.com/ib/zW9zNHROiH.png" alt="zW9zNHROiH" width="300" align="center">
 </center>
 
 <tr>
