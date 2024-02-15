@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 My name is Letícia and my nickname is 'lelts'! I enjoy programming as a hobby and love delving into the world of HTML.
 
-<img src="https://www.stokimg.com/ib/zW9zNHROiH.png" alt="zW9zNHROiH"/></a>
+<center>
+  <img src="https://www.stokimg.com/ib/zW9zNHROiH.png" alt="zW9zNHROiH" width="300">
+</center>
 
 <tr>
   <table width="100%">
