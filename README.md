@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 
 My name is <span style="color: #836FFF;">Letícia</span> and my nickname is <span style="color: #836FFF;">'lelts'</span>! 
 
-I enjoy programming as a hobby and love delving into the world of <span style="color: #836FFF;">HTML</span>.
+I enjoy programming as a hobby and love delving into the world of <span style="color: #836FFF;">HTML</span>. I'm actually ✨✨✨just a girlllll✨✨✨
 
-<h1 align="center"> 
-<img src="https://www.stokimg.com/ib/zW9zNHROiH.png" alt="zW9zNHROiH" width="300">
-    </h1>
 
 <tr>
   <table width="100%">
